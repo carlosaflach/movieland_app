@@ -10,9 +10,6 @@ In this application you will see the very basics about React, also some basic CS
 - JavaScript
 - Movie API Integration with [The Open Movie Database](https://www.omdbapi.com/)
 
-### Get To Know The Game
-- App: [Movieland App]()
-
 ## Created By:
 
 - Linkedin - [Carlos A.](https://www.linkedin.com/in/carlosafonsoflach/)
