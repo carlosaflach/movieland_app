@@ -8,7 +8,7 @@ In this application you will see the very basics about React, also some basic CS
 - React JS, Hooks.
 - CSS.
 - JavaScript
-- Movie API Integration [The Open Movie Database](https://www.omdbapi.com/)
+- Movie API Integration with [The Open Movie Database](https://www.omdbapi.com/)
 
 ## Created By:
 
