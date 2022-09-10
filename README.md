@@ -8,11 +8,7 @@ In this application you will see the very basics about React, also some basic CS
 - React JS, Hooks.
 - CSS.
 - JavaScript
-
-### Get To Know The Project
-
-- Live Site URL: [Simple Movie App](https://gpt-3-project.vercel.app/)
-
+- Movie API Integration with [The Open Movie Database](https://www.omdbapi.com/)
 
 ## Created By:
 
